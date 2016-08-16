@@ -34,8 +34,8 @@ var q = document.getElementById("quote");
 q.innerHTML =
     "\"Lemur " + Boy +
     ",the one in the movies, he's fun and cute. He stars in " +
-    Paris + " and the " + stars + ", the " + famous + ", lemur boy " + Hollywood Lemur + " The Most Famous Lemur.\"" +
-    "\u2014" +  "Fred Brooks, " + programmer;
+    Paris + "and the" + stars + ",the" + famous + ", lemur boy" + Hollywood Lemur + "The Most Famous Lemur.\"" +
+    "\u2014" +  "Lemur Boy," + Celebrity;
 
 q.innerHTML += "<br><br><br>";
 
