@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
+var things = ["Dog", "Cat", "Horse", "Elephant", "Zebra", "Lemur"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
@@ -32,9 +32,9 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + programmer +
-    ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
-    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
+    "\"Lemur " + Boy +
+    ",the one in the movies, he's fun and cute. He stars in " +
+    Paris + " and the " + stars + ", the " + famous + ", lemur boy " + Hollywood Lemur + " The Most Famous Lemur.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
 
 q.innerHTML += "<br><br><br>";
